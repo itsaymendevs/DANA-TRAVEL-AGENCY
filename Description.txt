@@ -1,0 +1,22 @@
+
+Project 
+-----------
+Dana Travel Agency
+
+
+Description
+-----------------
+Dana is a web-based platform that allows travellers to research and book flights tickets and services directly from travel suppliers (flight companies)
+
+Duration
+------------
+From: 21/3/2019
+To: 23/4/2019
+
+
+Tools
+---------
+Frontend: bootsrtap - jQuery - anime.js
+Backend: PHP Pure
+
+
